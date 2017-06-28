@@ -22,3 +22,4 @@
 //branch test3, 1
 //branch test3, 2
 //branch test3, 3
+//branch test3, 4
