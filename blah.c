@@ -10,5 +10,5 @@ int main(void)
 	  printf("hello\n");
 	  printf("another\n");
 	  printf("another 1\n");
-
+/
 }
